@@ -1,6 +1,10 @@
 ﻿# SimpleChatBot
+ • Created using bag of words<br>
+ • Responses are stored in a json file<br>
+ • Neural Network trained using tensorflow<br>
  
  <hr>
+ # Output
 The output in terminal would be as below<br>
 You: Hello<br>
 Chatbot: How can I help you?<br>
