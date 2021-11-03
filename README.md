@@ -1,6 +1,6 @@
 ﻿# SimpleChatBot
  
- 
+ <hr>
 The output in terminal would be as below<br>
 You: Hello<br>
 Chatbot: How can I help you?<br>
